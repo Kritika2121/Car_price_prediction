@@ -24,5 +24,7 @@ The project demonstrated that Lasso Regression performed better than Linear Regr
 
 Getting Started
 Clone the Repository: git clone (https://github.com/Kritika2121/car_price_prediction.git)
+
 Install Dependencies: Ensure you have the required Python libraries installed by running pip install -r requirements.txt.
+
 Run the Notebook: Open Car_price_prediction.ipynb in Jupyter Notebook to explore the data and run the analysis.
